@@ -1,0 +1,5 @@
+package com.politiclyconnect.partyregisty.data;
+
+public enum STATUS {
+    FAILED_PARTY_NOT_EXISTS, FAILED_WRONG_PARTY, FAILED_DUPLICATE, FAILED_PERSON_NOT_EXISTS, SUCCESS, BEFORE_VALIDATION
+}
